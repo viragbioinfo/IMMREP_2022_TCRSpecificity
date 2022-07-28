@@ -30,4 +30,4 @@ The training datatset for every epitope contains a value (either 1 or -1) under 
 The complete set of TCRs from control is further provided so that you can modify the training and test data as you please. For example, by modifying the proportion of controls included, and likewise increase or reduce the proportion of swapped negatives. 
 
 ## Test data: Will be released during the workshop
-*Now released: See the directory test_set*
+#### Now released: See the directory test_set ####
